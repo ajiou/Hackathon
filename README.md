@@ -1,10 +1,22 @@
 # 通用
 
+### Python
+
 [Python入門教學課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
 
 [Visual Studio Code Python 基本設定篇](https://youtu.be/tS4beaq9ies)
 
+### JavaScript
+
 [JavaScript網頁前端工程入門教學](https://www.youtube.com/playlist?list=PL-g0fdC5RMbpqZ0bmvJTgVTS4tS3txRVp)
+
+### C#
+
+[微軟官方文件](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+[iT邦幫忙鐵人賽 -- 轉職初新者系列-C#初學攻略心法](https://ithelp.ithome.com.tw/users/20091333/ironman/1589)
+
+### 不分類
 
 [codecademy互動式教學](https://www.codecademy.com/)(有許多免費課程如Python 2、JavaScript、ReactJS、 AngularJS、C#、C++、Swift、PHP、Java等)
 
@@ -58,19 +70,7 @@
 
 ## Windows
 
-### C#
-
-[微軟官方文件](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
-[iT邦幫忙鐵人賽 -- 轉職初新者系列-C#初學攻略心法](https://ithelp.ithome.com.tw/users/20091333/ironman/1589)
-
-[Tutorialspoint 的C#教學](https://www.tutorialspoint.com/csharp/index.htm)
-
-[TutorialsTeacher 的C#教學](https://www.tutorialsteacher.com/csharp/csharp-tutorials)
-
-[javaTpoint 的C#教學](https://www.javatpoint.com/c-sharp-tutorial)
-
-### uwp
+### UWP
 
 [微軟官方文件](https://docs.microsoft.com/zh-tw/windows/uwp/)
 
