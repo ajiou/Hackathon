@@ -58,6 +58,14 @@ https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
 
 # APP
 
+## Windows
+
+### C#
+
+[微軟官方教學](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+[iT邦幫忙鐵人賽 -- 轉職初新者系列-C#初學攻略心法](https://ithelp.ithome.com.tw/users/20091333/ironman/1589)
+
 ## Android
 
 ### Kotlin
