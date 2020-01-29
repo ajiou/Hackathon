@@ -52,9 +52,7 @@
 
 ### Flask(Python)
 
-Practical Flask Web Development Tutorials
-
-https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+[Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 
 # APP
 
@@ -62,9 +60,13 @@ https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
 
 ### C#
 
-[微軟官方教學](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[微軟官方文件](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 [iT邦幫忙鐵人賽 -- 轉職初新者系列-C#初學攻略心法](https://ithelp.ithome.com.tw/users/20091333/ironman/1589)
+
+### uwp
+
+[微軟官方文件](https://docs.microsoft.com/zh-tw/windows/uwp/)
 
 ## Android
 
