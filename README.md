@@ -64,6 +64,8 @@
 
 [iT邦幫忙鐵人賽 -- 轉職初新者系列-C#初學攻略心法](https://ithelp.ithome.com.tw/users/20091333/ironman/1589)
 
+[Tutorialspoint 的 C# 教學](https://www.tutorialspoint.com/csharp/index.htm)
+
 ### uwp
 
 [微軟官方文件](https://docs.microsoft.com/zh-tw/windows/uwp/)
