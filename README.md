@@ -74,6 +74,8 @@
 
 [微軟官方文件](https://docs.microsoft.com/zh-tw/windows/uwp/)
 
+[Windows 10 development for absolute beginners](https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners)
+
 ## Android
 
 ### Kotlin
