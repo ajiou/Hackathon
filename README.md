@@ -1,5 +1,6 @@
-**未標注語言者皆為繁中**
+>**未標注語言者皆為繁中**
 
+----
 # 通用
 
 ### Python
@@ -20,7 +21,7 @@
 
 ### 不分類
 
-[codecademy互動式教學](https://www.codecademy.com/)(有許多免費課程如Python 2、JavaScript、ReactJS、 AngularJS、C#、C++、Swift、PHP、Java等)
+[codecademy互動式教學](https://www.codecademy.com/)(有許多免費課程如Python 2、JavaScript、ReactJS、 AngularJS、C#、C++、Swift、PHP、Java等)(英文)
 
 [Runoob 的各種語言教學](https://www.runoob.com/)(各種語言幾乎都有，大推)(簡中)
 
@@ -34,29 +35,29 @@
 
 [iT邦幫忙鐵人賽 -- 激戰 ReactJS 30天](https://ithelp.ithome.com.tw/users/20107674/ironman/1472)
 
-[ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+[ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)(影片76集，每集10分鐘以內)(英文)
 
 ### Vue.js
 
-[Vue.js 官網教學](https://vuejs.org/v2/guide/)
+[Vue.js 官網教學](https://vuejs.org/v2/guide/)(英文)
 
-[Vue.js 學習筆記總整理](https://cythilya.github.io/2017/05/21/vue-study-note/)
+[Vue.js 學習筆記總整理](https://cythilya.github.io/2017/05/21/vue-study-note/)(資源連結清單)
 
 ### AngularJS
 
-[G.T.Wang的超基礎Angular hello world 教學](https://blog.gtwang.org/web-development/angular-framework-hello-world/)
+[G.T.Wang的超基礎Angular hello world 教學](https://blog.gtwang.org/web-development/angular-framework-hello-world/)(真的是從0開始的基礎)
 
 [iT邦幫忙鐵人賽 -- Angular 深入淺出三十天](https://ithelp.ithome.com.tw/users/20090728/ironman/1600)
 
-[Angular 官網的教學](https://angular.io/docs)
+[Angular 官網的文件](https://angular.io/docs)(英文)
 
 ### Gumby
 
-[Gumby Framework Tutorial](https://ieatcss.com/gumby-framework-tutorial.html)
+[Gumby Framework Tutorial](https://ieatcss.com/gumby-framework-tutorial.html)(英文)(網頁下方有範例清單的連結)
 
 ### Bootstrap 3
 
-[W3schools -- Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
+[W3schools -- Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)(英文)(W3schools有各種網頁語言的教學)
 
 ### Django(Python)
 
