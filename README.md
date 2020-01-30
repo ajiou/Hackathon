@@ -1,18 +1,20 @@
+**未標注語言者皆為繁中**
+
 # 通用
 
 ### Python
 
-[Python入門教學課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)
+[Python入門教學課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)(影片25集，14~30分鐘不等)
 
-[Visual Studio Code Python 基本設定篇](https://youtu.be/tS4beaq9ies)
+[Visual Studio Code Python 基本設定篇](https://youtu.be/tS4beaq9ies)(21分鐘)
 
 ### JavaScript
 
-[JavaScript網頁前端工程入門教學](https://www.youtube.com/playlist?list=PL-g0fdC5RMbpqZ0bmvJTgVTS4tS3txRVp)
+[JavaScript網頁前端工程入門教學](https://www.youtube.com/playlist?list=PL-g0fdC5RMbpqZ0bmvJTgVTS4tS3txRVp)(影片25集，8~40分鐘不等)
 
 ### C#
 
-[微軟官方文件](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[微軟官方文件](https://docs.microsoft.com/en-us/dotnet/csharp/)(英文)(中文版翻譯尚不完全)
 
 [iT邦幫忙鐵人賽 -- 轉職初新者系列-C#初學攻略心法](https://ithelp.ithome.com.tw/users/20091333/ironman/1589)
 
@@ -74,7 +76,7 @@
 
 [微軟官方文件](https://docs.microsoft.com/zh-tw/windows/uwp/)
 
-[Windows 10 development for absolute beginners](https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners)
+[Windows 10 development for absolute beginners](https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners)(影片80集，每集10分鐘左右)
 
 ## Android
 
