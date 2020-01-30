@@ -7,7 +7,7 @@
 
 [Python入門教學課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk)(影片25集，14~30分鐘不等)
 
-[Visual Studio Code Python 基本設定篇](https://youtu.be/tS4beaq9ies)(21分鐘)
+[Visual Studio Code Python 基本設定篇](https://youtu.be/tS4beaq9ies)(影片21分鐘)
 
 ### JavaScript
 
@@ -61,13 +61,13 @@
 
 ### Django(Python)
 
-[Django 基本教學 - 從無到有 Django-Beginners-Guide](https://github.com/twtrubiks/django-tutorial)
+[Django 基本教學 - 從無到有 Django-Beginners-Guide](https://github.com/twtrubiks/django-tutorial)(有範例程式碼)
 
-[Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
+[Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)(英文)(影片40集，每集15分鐘以內)
 
 ### Flask(Python)
 
-[Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
+[Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)(英文)(35集，每集20分鐘以內)
 
 # APP
 
@@ -77,15 +77,15 @@
 
 [微軟官方文件](https://docs.microsoft.com/zh-tw/windows/uwp/)
 
-[Windows 10 development for absolute beginners](https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners)(影片80集，每集10分鐘左右)
+[Windows 10 development for absolute beginners](https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners)(影片80集，每集10分鐘左右)(英文)
 
 ## Android
 
 ### Kotlin
 
-[Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)(印度口音很重，要開cc)
+[Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)(印度口音很重，要開cc)(44集，每集7分鐘左右)
 
-[Kotlin Course - Tutorial for Beginners](https://youtu.be/F9UC9DY-vIU)
+[Kotlin Course - Tutorial for Beginners](https://youtu.be/F9UC9DY-vIU)(英文)(影片，2hr40min)
 
 ### Java
 
@@ -93,28 +93,28 @@
 
 [Noob's Space的超基礎](https://noob.tw/java/)
 
-[朝陽科大的講義](http://www.im.cyut.edu.tw/html/html/board/p_test/r_2013-01-07.pdf)
+[朝陽科大的講義](http://www.im.cyut.edu.tw/html/html/board/p_test/r_2013-01-07.pdf)(pdf)
 
-[Java 教學及程式範例大全](https://www.ewdna.com/2011/12/java.html)
+[Java 教學及程式範例大全](https://www.ewdna.com/2011/12/java.html)(資源連結清單)
 
 ## iOS、macOS
 
 ### Swift
 
-[Swift Tutorial for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX)
+[Swift Tutorial for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX)(英文)(18集，每集20分鐘以內)
 
-[Swift基礎語法教學](https://www.youtube.com/playlist?list=PLKxpsqZZXDypDXRn6zF7MCELsrtQ06ywd)
+[Swift基礎語法教學](https://www.youtube.com/playlist?list=PLKxpsqZZXDypDXRn6zF7MCELsrtQ06ywd)(20集，每集15分鐘以內)
 
 ## 跨平台
 
 ### Dart
 
-[Dart for Beginners](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ)
+[Dart for Beginners](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDjfrfu8kisK9lQVcpMDDzZ)(英文)(18集，每集19分鐘左右)
 
 ### Kivy(Python)
 
-[Kivy Tutorials Python](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn)
+[Kivy Tutorials Python](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kSJVMyYeOQ8CXJ3z1k7gHn)(英文)(11集，每集12分鐘左右)
 
 ### PyQt5(Python)
 
-[PyQt5 Python 3 Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)
+[PyQt5 Python 3 Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)(英文)(8集，每集10分鐘左右)
